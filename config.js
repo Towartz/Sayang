@@ -2,11 +2,11 @@ let fs = require('fs')
 let fetch = require('node-fetch')
 global.tum = fs.readFileSync('./src/Ah5.jpeg')
 global.tum2 = fs.readFileSync('./src/emror.jpeg')
-global.thumb = 'https://i.ibb.co/34PV5yH/By-Relldev.jpg'
+global.thumb = 'https://telegra.ph/file/a2a93e1c26da975dadd2d.jpg'
 global.thumb2 = fs.readFileSync('./src/emror.jpeg')
-global.owner = ['6281379753850', '6283820073017', '6283801499848','62813828362494','85290882526','6285240750713','6282125986924','6288286421519'] // Put your number here
-global.mods = ['6281379753850'] // Want some help?
-global.prems = ['6281379753850','6285893120588','6285656615441'] // Premium user has unlimited limit
+global.owner = ['6283162498175', '6283129109022', '6285721738252', '6281274179050'] // Put your number here
+global.mods = ['6283162498175'] // Want some help?
+global.prems = ['6283162498175','6283129109022','6285721738252','6281274179050'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
